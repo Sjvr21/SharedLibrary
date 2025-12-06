@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Simple_MDB"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "Simple_MDB.sln"
+	}
+}
